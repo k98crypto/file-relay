@@ -1,0 +1,6 @@
+files/
+.uploads/
+learned_ips.json
+shares.json
+*.log
+__pycache__/
